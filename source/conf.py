@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'UserDocument'
-copyright = '2022, Shalapai'
+project = ''
+copyright = '2022, Ilya Chigirev'
 author = 'Shalapai'
 release = '1'
 
